@@ -28,19 +28,17 @@ margin: 0;
   height: 150px;
   width: 150px;
   position: fixed;
-  right:1070px;
-
-
+  left:50px;
 }
 .cloud1 {
   position: absolute;
-  right: 300px;
+  right: 600px;
   top: 50px;
 }
 
 .cloud2 {
   position: absolute;
-  left: auto;
+  left: 500px;
 }
 .circular{
   border-radius: 100%;
@@ -66,4 +64,11 @@ margin: 0;
 }
 .name{
   margin-bottom: 0;
+}
+.p{
+  position: fixed;
+  left:58px;
+  top:230px;
+  font-family: 'Marck Script', cursive;
+  font-size: 25px;
 }
